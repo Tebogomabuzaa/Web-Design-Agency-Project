@@ -1,4 +1,3 @@
-````markdown
 # Creative Design Agency Landing Page
 
 A clean, responsive landing page website for a creative design agency. This project demonstrates a layout containing a hero section, feature cards, and a footer using HTML5 and CSS3.
@@ -53,5 +52,3 @@ You can easily change the color scheme in `style.css`:
 
   * **Background Color:** Modify `background-color: #faf9f6;` in the `body` selector.
   * **Accent Color:** Modify the `.middle-h1` class color (currently `rgb(25, 25, 112)`).
-
-```
